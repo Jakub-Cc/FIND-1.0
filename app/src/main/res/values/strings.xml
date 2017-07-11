@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FIND</string>
+    <string name="tekst1">Reload</string>
+    <string name="tekst2">Send</string>
+    <string name="tekst3">Test</string>
+    <string name="tekst4">Działanie w tle</string>
+    <string name="tekst5">Czas odświeżania</string>
+    <string name="tekst6">Czas wysyłania</string>
+    <string name="tekst7">Opcje</string>
+    <string name="tekst8">Powrót</string>
+    <string name="tekst9">Zapisz</string>
+    <string name="txtokno1">Wi-Fi</string>
+    <string name="txtokno2">GSM</string>
+    <string name="txtokno3">MAC</string>
+</resources>
