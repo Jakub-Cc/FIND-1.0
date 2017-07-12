@@ -1,4 +1,4 @@
-Projekt zakładał stworzenie aplikacji android mierzącej siłe sygnału gsm stacji bazowych telefonii komórkowej, a nastepnie wysłanie pomiarów do serwera, oraz prezentacja wyników z wykorzystaniem api map google.
+Projekt zakładał stworzenie aplikacji android mierzącej siłe sygnału gsm stacji bazowych telefonii komórkowej oraz położenie GPS telefonu, a nastepnie wysłanie pomiarów do serwera, oraz prezentacja wyników z wykorzystaniem api map google.
 
 Do zakresu moich obowiązków należało utworzenie aplikacji android. 
 
